@@ -2,7 +2,7 @@
 Para agregar un style a fluxbox tendremos que indicarle nuestra carpeta HOME y en seguida donde se encuentra la configuracion de flubox, Ejemplo:
 
 ```shell
-cp -r styles/cyan /home/aqui_va_tu_nombre_de_usuario/.fluxbox/styles/
+cp -r styles/blue /home/aqui_va_tu_nombre_de_usuario/.fluxbox/styles/
 ```
 
 ##
